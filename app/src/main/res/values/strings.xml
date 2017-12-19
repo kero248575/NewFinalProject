@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NewFinalProject</string>
+    <string-array name="cards">
+        <item>VISA</item>
+        <item>MasterCard</item>
+        <item>JBC</item>
+        <item>HSBC</item>
+        <item>CitiBack</item>
+        <item>SD</item>
+    </string-array>
+</resources>
