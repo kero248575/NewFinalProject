@@ -13,6 +13,8 @@
         android:layout_height="wrap_content"
         android:text="註冊成功!!!!\n進入登入畫面"
         android:gravity="center"
+        android:textColor="#FFF"
+
         android:textSize="25sp"
         app:layout_constraintTop_toTopOf="parent"
         android:layout_marginTop="8dp"

@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">NewFinalProject</string>
+    <string name="app_name">人脈筆記本</string>
     <string-array name="cards">
         <item>VISA</item>
         <item>MasterCard</item>

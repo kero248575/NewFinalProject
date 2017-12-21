@@ -66,7 +66,7 @@ public class LoginActivity extends AppCompatActivity {
 
                 if (t_name.equals(username.getText().toString()) && t_pw.equals(pw.getText().toString())) {
                     Intent intent = new Intent();
-                    intent.setClass(LoginActivity.this, MainActivity.class);
+                    intent.setClass(LoginActivity.this, DummyNote.class);
                     startActivity(intent);
                 } else {
                     Toast.makeText(LoginActivity.this, "帳號驗證失敗", Toast.LENGTH_SHORT).show();
