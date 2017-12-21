@@ -24,6 +24,7 @@
         <activity android:name=".SpinnerEx">
 
         </activity>
+        <activity android:name=".DummyNote"></activity>
     </application>
 
 </manifest>
